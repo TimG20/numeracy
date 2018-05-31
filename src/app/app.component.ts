@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'numeracy';
+  title = 'numeracy - a tool for reviewing financial statements ';
 }
